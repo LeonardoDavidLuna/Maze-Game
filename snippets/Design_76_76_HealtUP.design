@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups format="1">
+    <group eventID="1" id="0">
+        <event-collide-typetotype comment="false" x="10" y="76">
+            <group eventID="1" id="-1">
+                <die comment="false" x="0" y="0">
+                    <ACTOR eid="lastcollided" id="0"/>
+                </die>
+                <custom-133 comment="false" x="0" y="0">
+                    <ACTOR eid="this" id="0"/>
+                    <int id="1" val="1"/>
+                </custom-133>
+            </group>
+            <actortype eid="103" id="0"/>
+            <actortype eid="48" id="1"/>
+        </event-collide-typetotype>
+    </group>
+</groups>

@@ -1,0 +1,6 @@
+# Generic
+.DS_Store
+
+# Generated files. These should always be ignored.
+.cache/**
+**/*.bak
